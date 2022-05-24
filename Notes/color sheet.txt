@@ -1,0 +1,7 @@
+HEX CODES
+
+Blue: #c1e4f7
+Salmon: #ff8f80
+Purple: #d1bcd2
+Green: #c7e8ac
+Yellow: #ffdba9
